@@ -1,1 +1,1 @@
-# javascript-basico
+# JavaScript-Basic
